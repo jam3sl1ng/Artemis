@@ -5,10 +5,3 @@
 # import pyttsx3 # Optional (needed for tts)
 # import huggingface
 # import pandas
-
-user_input = input("what is your query? ")
-ai_output = 0
-
-if user_input == str("hello"):
-    ai_output = ("hi how are you?")
-    print(ai_output)
