@@ -4,6 +4,7 @@
 # import pytorch
 # import pyttsx3 # Optional (needed for tts)
 # import huggingface
+# import pandas
 
 user_input = input("what is your query? ")
 ai_output = 0
